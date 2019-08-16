@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\bin\Debug\netcoreapp2.1\OnMyOwn.deps.json
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\bin\Debug\netcoreapp2.1\OnMyOwn.runtimeconfig.json
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\bin\Debug\netcoreapp2.1\OnMyOwn.runtimeconfig.dev.json
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\bin\Debug\netcoreapp2.1\OnMyOwn.dll
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\bin\Debug\netcoreapp2.1\OnMyOwn.pdb
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.RazorAssemblyInfo.cache
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.RazorAssemblyInfo.cs
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.AssemblyInfo.cs
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.RazorTargetAssemblyInfo.cache
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.dll
+C:\Users\USER\source\repos\OnMyOwn\OnMyOwn\obj\Debug\netcoreapp2.1\OnMyOwn.pdb
